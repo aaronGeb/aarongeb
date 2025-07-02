@@ -70,17 +70,7 @@ Skilled in developing end-to-end ML pipelines for data ingestion, feature engine
 
 ## Where to find me
 
-<!-- Competitive Programming Profiles -->
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-[My LeetCode](https://leetcode.com/u/aarongeb/)
-
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-[My Codeforces](https://codeforces.com/profile/AaronGebremariam)
-<!-- Contact -->
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[Email Me](aarongebremariam.94@gmail.com)
-
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aarongeb/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFOAaronGebremariamRCES_USERNAME)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarongebremariam.94@gmail.com)
