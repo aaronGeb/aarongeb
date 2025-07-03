@@ -1,4 +1,4 @@
-<h1> Hello, folks! 👋  I am Aaron Gebremariam.</h1>
+<h1> Hello, folks! 👋  I am Aaron</h1>
 <h3> Passionate Data Science and AI Engineer.</h3>
 
 ---
