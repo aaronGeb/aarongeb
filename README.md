@@ -41,6 +41,15 @@ Skilled in developing end-to-end ML pipelines for data ingestion, feature engine
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+#### Data Visualization Tools
+
+<!-- Data Visualization Tools -->
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+
 #### Databases
 
 <!-- Databases -->
