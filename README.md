@@ -78,11 +78,12 @@ Skilled in developing end-to-end ML pipelines for data ingestion, feature engine
 
 ## My GitHub Statistics
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarongeb&theme=github_dark)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarongeb&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarongeb&theme=github_dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarongeb&theme=github_dark)
-
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarongeb&theme=github_dark)
+![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarongeb&theme=github_dark)
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aarongeb&theme=github_dark&utcOffset=8)
 
 
 
@@ -94,6 +95,7 @@ Skilled in developing end-to-end ML pipelines for data ingestion, feature engine
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AaronGebremariam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-gebremariam-b94b68271/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarongebremariam.94@gmail.com)
+
 
 
 
