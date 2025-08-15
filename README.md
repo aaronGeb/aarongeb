@@ -76,6 +76,17 @@ Skilled in developing end-to-end ML pipelines for data ingestion, feature engine
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-F15A29?style=flat&logo=dbt&logoColor=white)
 
+## My GitHub Statistics
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarongeb&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarongeb&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarongeb&theme=github_dark)
+
+
+
+
+
 
 ## Where to find me
 
