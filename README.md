@@ -5,9 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-Innovative NLP Researcher and Full Stack JavaScript Developer with over two years of experience across machine learning engineering, applied AI research, and production-grade software development. Currently researching efficient alternatives to transformer-based LLMs, including CNN-based and biologically inspired models aimed at reducing reliance on backpropagation.
-
-Skilled in developing end-to-end ML pipelines for data ingestion, feature engineering, training, and deployment using Python, SQL, and MLOps tools. Experienced in building full stack applications with modern JavaScript frameworks (Node.js, Express.js, React) and integrating scalable AI-powered features into web platforms. Adept at bridging cutting-edge AI research with real-world product development.
+Python engineer with  experience in  building production-grade backend systems, data pipelines, and ML-powered applications. Skilled in designing end-to-end solutions, from FastAPI services and PostgreSQL schemas to Airflow-orchestrated ETL pipelines and XGBoost models with full MLOps tooling (MLflow, SHAP, Docker). Experienced deploying multi-tenant AI platforms, real-time scoring engines, and data warehouses in regulated and cloud environments. Focused on the intersection of robust backend engineering and applied machine learning.
 
 
 
