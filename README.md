@@ -1,5 +1,5 @@
 <h1> Hello, folks! 👋  I am Aaron</h1>
-<h3> Passionate Data Science and AI Engineer.</h3>
+<h3> Backend & ML Engineer.</h3>
 
 ---
 
