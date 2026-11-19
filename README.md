@@ -1,5 +1,5 @@
 <h1> Hello, folks! 👋  I am Aaron</h1>
-<h3> Data Engineer | AWS | Databricks | Python | SQL..</h3>
+<h3> Data Engineer | AWS | Databricks | Python | SQL</h3>
 <p>I build reliable data pipelines, cloud-based data platforms, and backend applications. My work focuses on transforming raw data into trusted, accessible datasets through scalable data engineering and automation.</p>
 
 ---
