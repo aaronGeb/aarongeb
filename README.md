@@ -1,12 +1,23 @@
 <h1> Hello, folks! 👋  I am Aaron</h1>
 <h3> Data Engineer | AWS | Databricks | Python | SQL..</h3>
+<p>I build reliable data pipelines, cloud-based data platforms, and backend applications. My work focuses on transforming raw data into trusted, accessible datasets through scalable data engineering and automation.</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-Python engineer with  experience in  building production-grade backend systems, data pipelines, and ML-powered applications. Skilled in designing end-to-end solutions, from FastAPI services and PostgreSQL schemas to Airflow-orchestrated ETL pipelines and XGBoost models with full MLOps tooling (MLflow, SHAP, Docker). Experienced deploying multi-tenant AI platforms, real-time scoring engines, and data warehouses in regulated and cloud environments. Focused on the intersection of robust backend engineering and applied machine learning.
+I'm a Data Engineer with a background in software engineering, data analytics, and applied machine learning.
 
+My experience and technical interests include:
+<ol>
+  <li>Building batch and streaming ETL/ELT pipelines.</li>
+  <li>Developing data platforms with Python, SQL, Apache Spark, and Kafka</li>
+  <li>Designing lakehouse architectures using Databricks, Delta Lake, and Unity Catalog.</li>
+  <li>Orchestrating workflows with Apache Airflow, dbt, and Databricks Workflows.</li>
+  <li>Building cloud infrastructure and deploying data solutions on AWS.</li>
+  <li>Developing APIs and automation tools with Python and FastAPI.</li>
+</ol>
+I'm particularly interested in scalable data systems, cloud-native architectures, and AI-powered data applications.
 
 
 ---
