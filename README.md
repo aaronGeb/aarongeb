@@ -1,5 +1,5 @@
 <h1> Hello, folks! 👋  I am Aaron</h1>
-<h3> Backend & ML Engineer.</h3>
+<h3> Data Engineer | AWS | Databricks | Python | SQL..</h3>
 
 ---
 
