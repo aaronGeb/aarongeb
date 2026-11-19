@@ -9,14 +9,14 @@
 I'm a Data Engineer with a background in software engineering, data analytics, and applied machine learning.
 
 My experience and technical interests include:
-<ol>
+<ul>
   <li>Building batch and streaming ETL/ELT pipelines.</li>
   <li>Developing data platforms with Python, SQL, Apache Spark, and Kafka</li>
   <li>Designing lakehouse architectures using Databricks, Delta Lake, and Unity Catalog.</li>
   <li>Orchestrating workflows with Apache Airflow, dbt, and Databricks Workflows.</li>
   <li>Building cloud infrastructure and deploying data solutions on AWS.</li>
   <li>Developing APIs and automation tools with Python and FastAPI.</li>
-</ol>
+</ul>
 I'm particularly interested in scalable data systems, cloud-native architectures, and AI-powered data applications.
 
 
